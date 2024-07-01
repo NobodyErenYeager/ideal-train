@@ -432,5 +432,105 @@
 	(1280, 720) | 002 Deploying to Netlify.mp4
 	(1280, 720) | 003 Setting Up a Git and GitHub Repository.mp4
 	(1280, 720) | 004 Deploying to Vercel.mp4
-31 - The End!
-	(1280, 720) | 001 Where to Go from Here.mp4
+	(1280, 720) | 005 Where to Go from Here.mp4
+31 - PART 5 FULL-STACK REACT WITH NEXT.JS [1 PROJECT]
+	(1280, 720) | 001 Introduction to Part 5.mp4
+32 - Overview of Next.js With the App Router
+	(1280, 720) | 001 Section Overview.mp4
+	(1280, 720) | 003 An Overview of Server-Side Rendering (SSR).mp4
+	(1280, 720) | 004 Experiment Manual SSR With React DOM + Node.js.mp4
+	(1280, 720) | 005 The Missing Piece Hydration.mp4
+	(1280, 720) | 006 Implementing Hydration.mp4
+	(1280, 720) | 007 What is Next.js.mp4
+	(1280, 720) | 008 Setting Up a Next.js Project.mp4
+	(1280, 720) | 010 Defining Routes and Pages.mp4
+	(1280, 720) | 011 Navigating Between Pages.mp4
+	(1280, 720) | 012 Creating a Layout.mp4
+	(1280, 720) | 013 What are React Server Components (RSC - Part 1).mp4
+	(1280, 720) | 014 Fetching Data in a Page.mp4
+	(1280, 720) | 015 Adding Interactivity With Client Components.mp4
+	(1280, 720) | 016 Displaying a Loading Indicator.mp4
+	(1280, 720) | 017 How RSC Works Behind the Scenes (RSC - Part 2).mp4
+	(1280, 720) | 018 RSC vs. SSR How are They Related (RSC - Part 3).mp4
+33 - Starting to Build the Wild Oasis Website
+	(1280, 720) | 001 Section Overview.mp4
+	(1280, 720) | 002 Project Planning The Wild Oasis Customer Website.mp4
+	(1280, 720) | 003 Project Organization.mp4
+	(1280, 720) | 004 Styling With Tailwind CSS.mp4
+	(1280, 720) | 005 Adding Page Metadata and Favicon.mp4
+	(1280, 720) | 006 Loading and Optimizing Fonts.mp4
+	(1280, 720) | 007 Improving the Navigation and Root Layout.mp4
+	(1280, 720) | 008 Optimizing Images With Next.js Image  Component.mp4
+	(1280, 720) | 009 Building the Home Page.mp4
+	(1280, 720) | 010 Building the About Page With Responsive Images.mp4
+	(1280, 720) | 011 Adding Nested Routes and Pages.mp4
+	(1280, 720) | 012 Adding a Nested Layout.mp4
+34 - Data Fetching, Caching, and Rendering
+	(1280, 720) | 001 Section Overview.mp4
+	(1280, 720) | 002 Setting Up Supabase.mp4
+	(1280, 720) | 003 Fetching and Displaying Cabin List.mp4
+	(1280, 720) | 004 Streaming Route Segments With loading.js File.mp4
+	(1280, 720) | 005 What is React Suspense.mp4
+	(1280, 720) | 006 Streaming UI With Suspense Cabin List.mp4
+	(1280, 720) | 007 Dynamic Route Segments Building the Cabin Page.mp4
+	(1280, 720) | 008 Generating Dynamic Metadata.mp4
+	(1280, 720) | 009 Error Handling Setting Up Error Boundaries.mp4
+	(1280, 720) | 010 Error Handling Not Found Errors.mp4
+	(1280, 720) | 011 Different Types of SSR Static vs. Dynamic Rendering.mp4
+	(1280, 720) | 012 Analyzing Rendering in Our App.mp4
+	(1280, 720) | 013 Making Dynamic Pages Static With generateStaticParams.mp4
+	(1280, 720) | 014 Static Site Generation (SSG).mp4
+	(1280, 720) | 015 Partial Pre-Rendering.mp4
+	(1280, 720) | 016 How Next.js Caches Data.mp4
+	(1280, 720) | 017 Experimenting With Caching and ISR.mp4
+	(1280, 720) | 018 CHALLENGE #1 Fetching the Number of Cabins.mp4
+35 - Client and Server Interactions
+	(1280, 720) | 001 Section Overview.mp4
+	(1280, 720) | 002 Blurring the Boundary Between Server and Client (RSC - Part 4).mp4
+	(1280, 720) | 003 Client Components in Server Components.mp4
+	(1280, 720) | 004 Highlighting Current Side Navigation Link.mp4
+	(1280, 720) | 005 Sharing State Between Client and Server The URL.mp4
+	(1280, 720) | 006 Advanced Server Components in Client Components.mp4
+	(1280, 720) | 007 Data Fetching Strategies for the Reservation Section.mp4
+	(1280, 720) | 008 Using the Context API for State Management.mp4
+	(1280, 720) | 009 Creating an API Endpoint With Route Handlers.mp4
+36 - Authentication With NextAuth (Auth.js)
+	(1280, 720) | 001 Section Overview.mp4
+	(1280, 720) | 002 Setting Up NextAuth.mp4
+	(1280, 720) | 003 Getting the User Session.mp4
+	(1280, 720) | 004 What is Middleware in Next.js.mp4
+	(1280, 720) | 005 Protecting Routes With NextAuth Middleware.mp4
+	(1280, 720) | 006 Building a Custom Sign In Page.mp4
+	(1280, 720) | 007 Building a Custom Sign Out Button.mp4
+	(1280, 720) | 008 Creating a New Guest on First Sign In.mp4
+37 - Mutations With Server Actions + Modern React Hooks
+	(1280, 720) | 001 Section Overview.mp4
+	(1280, 720) | 002 What are Server Actions.mp4
+	(1280, 720) | 003 Updating the Profile Using a Server Action.mp4
+	(1280, 720) | 004 Manual Cache Revalidation.mp4
+	(1280, 720) | 005 Displaying a Loading Indicator The useFormStatus Hook.mp4
+	(1280, 720) | 006 Building the Guest's Reservations Page.mp4
+	(1280, 720) | 007 Deleting a Reservation.mp4
+	(1280, 720) | 008 Another Loading Indicator The useTransition Hook.mp4
+	(1280, 720) | 009 CHALLENGE #1 Updating a Reservation.mp4
+	(1280, 720) | 010 Removing Reservations Immediately The useOptimistic Hook.mp4
+	(1280, 720) | 011 Back to the Cabin Page Finishing the Date Selector.mp4
+	(1280, 720) | 012 Creating a New Reservation.mp4
+38 - Deployment With Vercel
+	(1280, 720) | 001 Section Overview.mp4
+	(1280, 720) | 002 Setting Up the GitHub Repository.mp4
+	(1280, 720) | 003 Deploying to Vercel.mp4
+	(1280, 720) | 004 Updating Environment Variables and OAuth Credentials.mp4
+39 - [OPTIONAL] Legacy Next.js The Pages Router
+	(1280, 720) | 001 Section Overview.mp4
+	(1280, 720) | 002 Setting Up Another Project.mp4
+	(1280, 720) | 003 Routes, Pages, and Navigation.mp4
+	(1280, 720) | 004 Dynamic Routes.mp4
+	(1280, 720) | 005 Creating a Layout With a Custom _App.mp4
+	(1280, 720) | 006 Creating Pages.mp4
+	(1280, 720) | 007 Defining Page Title and Favicon.mp4
+	(1280, 720) | 008 Fetching Data With getStaticProps (SSG).mp4
+	(1280, 720) | 009 Fetching Data With getServerSideProps (SSR).mp4
+	(1280, 720) | 010 API Routes.mp4
+	(1280, 720) | 011 Handling Form Submissions.mp4
+	(1280, 720) | 012 Where to Go from Here.mp4
